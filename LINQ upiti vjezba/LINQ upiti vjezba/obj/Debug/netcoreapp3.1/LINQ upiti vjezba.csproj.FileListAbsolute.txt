@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\bin\Debug\netcoreapp3.1\LINQ upiti vjezba.exe
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\bin\Debug\netcoreapp3.1\LINQ upiti vjezba.deps.json
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\bin\Debug\netcoreapp3.1\LINQ upiti vjezba.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\bin\Debug\netcoreapp3.1\LINQ upiti vjezba.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\bin\Debug\netcoreapp3.1\LINQ upiti vjezba.dll
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\bin\Debug\netcoreapp3.1\LINQ upiti vjezba.pdb
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\obj\Debug\netcoreapp3.1\LINQ upiti vjezba.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\obj\Debug\netcoreapp3.1\LINQ upiti vjezba.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\obj\Debug\netcoreapp3.1\LINQ upiti vjezba.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\obj\Debug\netcoreapp3.1\LINQ upiti vjezba.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\obj\Debug\netcoreapp3.1\LINQ upiti vjezba.dll
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\obj\Debug\netcoreapp3.1\LINQ upiti vjezba.pdb
+C:\Users\Snježana Mijošević\source\repos\LINQ upiti vjezba\LINQ upiti vjezba\obj\Debug\netcoreapp3.1\LINQ upiti vjezba.genruntimeconfig.cache

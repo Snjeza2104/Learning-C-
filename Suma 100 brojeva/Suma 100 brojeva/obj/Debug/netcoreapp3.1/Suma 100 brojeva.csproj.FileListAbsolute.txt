@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\bin\Debug\netcoreapp3.1\Suma 100 brojeva.exe
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\bin\Debug\netcoreapp3.1\Suma 100 brojeva.deps.json
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\bin\Debug\netcoreapp3.1\Suma 100 brojeva.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\bin\Debug\netcoreapp3.1\Suma 100 brojeva.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\bin\Debug\netcoreapp3.1\Suma 100 brojeva.dll
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\bin\Debug\netcoreapp3.1\Suma 100 brojeva.pdb
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\obj\Debug\netcoreapp3.1\Suma 100 brojeva.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\obj\Debug\netcoreapp3.1\Suma 100 brojeva.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\obj\Debug\netcoreapp3.1\Suma 100 brojeva.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\obj\Debug\netcoreapp3.1\Suma 100 brojeva.dll
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\obj\Debug\netcoreapp3.1\Suma 100 brojeva.pdb
+C:\Users\Snježana Mijošević\source\repos\Suma 100 brojeva\Suma 100 brojeva\obj\Debug\netcoreapp3.1\Suma 100 brojeva.genruntimeconfig.cache

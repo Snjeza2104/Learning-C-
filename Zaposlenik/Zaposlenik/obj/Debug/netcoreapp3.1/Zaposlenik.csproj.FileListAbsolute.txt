@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\bin\Debug\netcoreapp3.1\Zaposlenik.exe
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\bin\Debug\netcoreapp3.1\Zaposlenik.deps.json
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\bin\Debug\netcoreapp3.1\Zaposlenik.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\bin\Debug\netcoreapp3.1\Zaposlenik.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\bin\Debug\netcoreapp3.1\Zaposlenik.dll
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\bin\Debug\netcoreapp3.1\Zaposlenik.pdb
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\obj\Debug\netcoreapp3.1\Zaposlenik.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\obj\Debug\netcoreapp3.1\Zaposlenik.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\obj\Debug\netcoreapp3.1\Zaposlenik.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\obj\Debug\netcoreapp3.1\Zaposlenik.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\obj\Debug\netcoreapp3.1\Zaposlenik.dll
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\obj\Debug\netcoreapp3.1\Zaposlenik.pdb
+C:\Users\Snježana Mijošević\source\repos\Zaposlenik\Zaposlenik\obj\Debug\netcoreapp3.1\Zaposlenik.genruntimeconfig.cache

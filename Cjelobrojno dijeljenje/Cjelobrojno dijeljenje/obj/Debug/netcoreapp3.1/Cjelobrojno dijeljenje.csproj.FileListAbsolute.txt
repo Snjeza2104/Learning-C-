@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\bin\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.exe
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\bin\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.deps.json
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\bin\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\bin\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\bin\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.dll
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\bin\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.pdb
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\obj\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\obj\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\obj\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\obj\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.dll
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\obj\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.pdb
+C:\Users\Snježana Mijošević\source\repos\Cjelobrojno dijeljenje\Cjelobrojno dijeljenje\obj\Debug\netcoreapp3.1\Cjelobrojno dijeljenje.genruntimeconfig.cache

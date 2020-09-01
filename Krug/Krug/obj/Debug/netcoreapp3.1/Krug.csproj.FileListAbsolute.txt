@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\obj\Debug\netcoreapp3.1\Krug.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\obj\Debug\netcoreapp3.1\Krug.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\obj\Debug\netcoreapp3.1\Krug.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\bin\Debug\netcoreapp3.1\Krug.exe
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\bin\Debug\netcoreapp3.1\Krug.deps.json
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\bin\Debug\netcoreapp3.1\Krug.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\bin\Debug\netcoreapp3.1\Krug.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\bin\Debug\netcoreapp3.1\Krug.dll
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\bin\Debug\netcoreapp3.1\Krug.pdb
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\obj\Debug\netcoreapp3.1\Krug.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\obj\Debug\netcoreapp3.1\Krug.dll
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\obj\Debug\netcoreapp3.1\Krug.pdb
+C:\Users\Snježana Mijošević\source\repos\Krug\Krug\obj\Debug\netcoreapp3.1\Krug.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\bin\Debug\netcoreapp3.1\Unos ocjene.exe
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\bin\Debug\netcoreapp3.1\Unos ocjene.deps.json
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\bin\Debug\netcoreapp3.1\Unos ocjene.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\bin\Debug\netcoreapp3.1\Unos ocjene.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\bin\Debug\netcoreapp3.1\Unos ocjene.dll
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\bin\Debug\netcoreapp3.1\Unos ocjene.pdb
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\obj\Debug\netcoreapp3.1\Unos ocjene.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\obj\Debug\netcoreapp3.1\Unos ocjene.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\obj\Debug\netcoreapp3.1\Unos ocjene.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\obj\Debug\netcoreapp3.1\Unos ocjene.dll
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\obj\Debug\netcoreapp3.1\Unos ocjene.pdb
+C:\Users\Snježana Mijošević\source\repos\Unos ocjene\Unos ocjene\obj\Debug\netcoreapp3.1\Unos ocjene.genruntimeconfig.cache

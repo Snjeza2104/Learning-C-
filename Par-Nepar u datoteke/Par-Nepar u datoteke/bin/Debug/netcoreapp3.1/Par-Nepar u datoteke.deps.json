@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Par-Nepar u datoteke/1.0.0": {
+        "runtime": {
+          "Par-Nepar u datoteke.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Par-Nepar u datoteke/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

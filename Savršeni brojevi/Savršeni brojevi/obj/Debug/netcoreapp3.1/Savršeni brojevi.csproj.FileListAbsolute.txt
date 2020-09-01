@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\bin\Debug\netcoreapp3.1\Savršeni brojevi.exe
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\bin\Debug\netcoreapp3.1\Savršeni brojevi.deps.json
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\bin\Debug\netcoreapp3.1\Savršeni brojevi.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\bin\Debug\netcoreapp3.1\Savršeni brojevi.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\bin\Debug\netcoreapp3.1\Savršeni brojevi.dll
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\bin\Debug\netcoreapp3.1\Savršeni brojevi.pdb
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\obj\Debug\netcoreapp3.1\Savršeni brojevi.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\obj\Debug\netcoreapp3.1\Savršeni brojevi.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\obj\Debug\netcoreapp3.1\Savršeni brojevi.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\obj\Debug\netcoreapp3.1\Savršeni brojevi.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\obj\Debug\netcoreapp3.1\Savršeni brojevi.dll
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\obj\Debug\netcoreapp3.1\Savršeni brojevi.pdb
+C:\Users\Snježana Mijošević\source\repos\Savršeni brojevi\Savršeni brojevi\obj\Debug\netcoreapp3.1\Savršeni brojevi.genruntimeconfig.cache

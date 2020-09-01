@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\obj\Debug\netcoreapp3.1\Zbroj.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\obj\Debug\netcoreapp3.1\Zbroj.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\obj\Debug\netcoreapp3.1\Zbroj.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\obj\Debug\netcoreapp3.1\Zbroj.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\bin\Debug\netcoreapp3.1\Zbroj.exe
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\bin\Debug\netcoreapp3.1\Zbroj.deps.json
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\bin\Debug\netcoreapp3.1\Zbroj.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\bin\Debug\netcoreapp3.1\Zbroj.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\bin\Debug\netcoreapp3.1\Zbroj.dll
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\bin\Debug\netcoreapp3.1\Zbroj.pdb
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\obj\Debug\netcoreapp3.1\Zbroj.dll
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\obj\Debug\netcoreapp3.1\Zbroj.pdb
+C:\Users\Snježana Mijošević\source\repos\Zbroj\Zbroj\obj\Debug\netcoreapp3.1\Zbroj.genruntimeconfig.cache

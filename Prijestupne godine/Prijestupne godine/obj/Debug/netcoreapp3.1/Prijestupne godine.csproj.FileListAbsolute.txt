@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\bin\Debug\netcoreapp3.1\Prijestupne godine.exe
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\bin\Debug\netcoreapp3.1\Prijestupne godine.deps.json
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\bin\Debug\netcoreapp3.1\Prijestupne godine.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\bin\Debug\netcoreapp3.1\Prijestupne godine.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\bin\Debug\netcoreapp3.1\Prijestupne godine.dll
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\bin\Debug\netcoreapp3.1\Prijestupne godine.pdb
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\obj\Debug\netcoreapp3.1\Prijestupne godine.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\obj\Debug\netcoreapp3.1\Prijestupne godine.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\obj\Debug\netcoreapp3.1\Prijestupne godine.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\obj\Debug\netcoreapp3.1\Prijestupne godine.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\obj\Debug\netcoreapp3.1\Prijestupne godine.dll
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\obj\Debug\netcoreapp3.1\Prijestupne godine.pdb
+C:\Users\Snježana Mijošević\source\repos\Prijestupne godine\Prijestupne godine\obj\Debug\netcoreapp3.1\Prijestupne godine.genruntimeconfig.cache

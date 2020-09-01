@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\bin\Debug\netcoreapp3.1\Datumski podaci.exe
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\bin\Debug\netcoreapp3.1\Datumski podaci.deps.json
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\bin\Debug\netcoreapp3.1\Datumski podaci.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\bin\Debug\netcoreapp3.1\Datumski podaci.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\bin\Debug\netcoreapp3.1\Datumski podaci.dll
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\bin\Debug\netcoreapp3.1\Datumski podaci.pdb
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\obj\Debug\netcoreapp3.1\Datumski podaci.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\obj\Debug\netcoreapp3.1\Datumski podaci.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\obj\Debug\netcoreapp3.1\Datumski podaci.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\obj\Debug\netcoreapp3.1\Datumski podaci.dll
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\obj\Debug\netcoreapp3.1\Datumski podaci.pdb
+C:\Users\Snježana Mijošević\source\repos\Datumski podaci\Datumski podaci\obj\Debug\netcoreapp3.1\Datumski podaci.genruntimeconfig.cache

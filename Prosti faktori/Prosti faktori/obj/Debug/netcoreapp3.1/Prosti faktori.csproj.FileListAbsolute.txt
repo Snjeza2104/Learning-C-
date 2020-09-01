@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\bin\Debug\netcoreapp3.1\Prosti faktori.exe
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\bin\Debug\netcoreapp3.1\Prosti faktori.deps.json
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\bin\Debug\netcoreapp3.1\Prosti faktori.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\bin\Debug\netcoreapp3.1\Prosti faktori.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\bin\Debug\netcoreapp3.1\Prosti faktori.dll
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\bin\Debug\netcoreapp3.1\Prosti faktori.pdb
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\obj\Debug\netcoreapp3.1\Prosti faktori.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\obj\Debug\netcoreapp3.1\Prosti faktori.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\obj\Debug\netcoreapp3.1\Prosti faktori.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\obj\Debug\netcoreapp3.1\Prosti faktori.dll
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\obj\Debug\netcoreapp3.1\Prosti faktori.pdb
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\obj\Debug\netcoreapp3.1\Prosti faktori.genruntimeconfig.cache
+C:\Users\Snježana Mijošević\source\repos\Prosti faktori\Prosti faktori\obj\Debug\netcoreapp3.1\Prosti faktori.csprojAssemblyReference.cache

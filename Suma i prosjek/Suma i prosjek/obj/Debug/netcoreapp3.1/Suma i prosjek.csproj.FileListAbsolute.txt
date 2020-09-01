@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\bin\Debug\netcoreapp3.1\Suma i prosjek.exe
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\bin\Debug\netcoreapp3.1\Suma i prosjek.deps.json
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\bin\Debug\netcoreapp3.1\Suma i prosjek.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\bin\Debug\netcoreapp3.1\Suma i prosjek.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\bin\Debug\netcoreapp3.1\Suma i prosjek.dll
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\bin\Debug\netcoreapp3.1\Suma i prosjek.pdb
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\obj\Debug\netcoreapp3.1\Suma i prosjek.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\obj\Debug\netcoreapp3.1\Suma i prosjek.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\obj\Debug\netcoreapp3.1\Suma i prosjek.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\obj\Debug\netcoreapp3.1\Suma i prosjek.dll
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\obj\Debug\netcoreapp3.1\Suma i prosjek.pdb
+C:\Users\Snježana Mijošević\source\repos\Suma i prosjek\Suma i prosjek\obj\Debug\netcoreapp3.1\Suma i prosjek.genruntimeconfig.cache

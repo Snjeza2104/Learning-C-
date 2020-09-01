@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\obj\Debug\netcoreapp3.1\Static i instanca.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\obj\Debug\netcoreapp3.1\Static i instanca.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\obj\Debug\netcoreapp3.1\Static i instanca.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\bin\Debug\netcoreapp3.1\Static i instanca.exe
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\bin\Debug\netcoreapp3.1\Static i instanca.deps.json
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\bin\Debug\netcoreapp3.1\Static i instanca.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\bin\Debug\netcoreapp3.1\Static i instanca.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\bin\Debug\netcoreapp3.1\Static i instanca.dll
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\bin\Debug\netcoreapp3.1\Static i instanca.pdb
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\obj\Debug\netcoreapp3.1\Static i instanca.dll
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\obj\Debug\netcoreapp3.1\Static i instanca.pdb
+C:\Users\Snježana Mijošević\source\repos\Static i instanca\Static i instanca\obj\Debug\netcoreapp3.1\Static i instanca.genruntimeconfig.cache

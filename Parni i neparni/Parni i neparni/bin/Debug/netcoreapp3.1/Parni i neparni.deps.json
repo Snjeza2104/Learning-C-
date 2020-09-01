@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Parni i neparni/1.0.0": {
+        "runtime": {
+          "Parni i neparni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parni i neparni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

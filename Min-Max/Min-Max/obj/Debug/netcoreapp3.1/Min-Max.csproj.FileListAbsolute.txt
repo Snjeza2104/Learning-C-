@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\bin\Debug\netcoreapp3.1\Min-Max.exe
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\bin\Debug\netcoreapp3.1\Min-Max.deps.json
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\bin\Debug\netcoreapp3.1\Min-Max.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\bin\Debug\netcoreapp3.1\Min-Max.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\bin\Debug\netcoreapp3.1\Min-Max.dll
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\bin\Debug\netcoreapp3.1\Min-Max.pdb
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\obj\Debug\netcoreapp3.1\Min-Max.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\obj\Debug\netcoreapp3.1\Min-Max.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\obj\Debug\netcoreapp3.1\Min-Max.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\obj\Debug\netcoreapp3.1\Min-Max.dll
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\obj\Debug\netcoreapp3.1\Min-Max.pdb
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\obj\Debug\netcoreapp3.1\Min-Max.genruntimeconfig.cache
+C:\Users\Snježana Mijošević\source\repos\Min-Max\Min-Max\obj\Debug\netcoreapp3.1\Min-Max.csprojAssemblyReference.cache

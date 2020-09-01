@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\bin\Debug\netcoreapp3.1\Automobili.exe
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\bin\Debug\netcoreapp3.1\Automobili.deps.json
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\bin\Debug\netcoreapp3.1\Automobili.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\bin\Debug\netcoreapp3.1\Automobili.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\bin\Debug\netcoreapp3.1\Automobili.dll
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\bin\Debug\netcoreapp3.1\Automobili.pdb
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\obj\Debug\netcoreapp3.1\Automobili.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\obj\Debug\netcoreapp3.1\Automobili.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\obj\Debug\netcoreapp3.1\Automobili.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\obj\Debug\netcoreapp3.1\Automobili.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\obj\Debug\netcoreapp3.1\Automobili.dll
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\obj\Debug\netcoreapp3.1\Automobili.pdb
+C:\Users\Snježana Mijošević\source\repos\Automobili\Automobili\obj\Debug\netcoreapp3.1\Automobili.genruntimeconfig.cache

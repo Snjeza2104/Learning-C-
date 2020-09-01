@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Max\Max\obj\Debug\netcoreapp3.1\Max.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Max\Max\obj\Debug\netcoreapp3.1\Max.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Max\Max\obj\Debug\netcoreapp3.1\Max.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Max\Max\bin\Debug\netcoreapp3.1\Max.exe
+C:\Users\Snježana Mijošević\source\repos\Max\Max\bin\Debug\netcoreapp3.1\Max.deps.json
+C:\Users\Snježana Mijošević\source\repos\Max\Max\bin\Debug\netcoreapp3.1\Max.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Max\Max\bin\Debug\netcoreapp3.1\Max.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Max\Max\bin\Debug\netcoreapp3.1\Max.dll
+C:\Users\Snježana Mijošević\source\repos\Max\Max\bin\Debug\netcoreapp3.1\Max.pdb
+C:\Users\Snježana Mijošević\source\repos\Max\Max\obj\Debug\netcoreapp3.1\Max.dll
+C:\Users\Snježana Mijošević\source\repos\Max\Max\obj\Debug\netcoreapp3.1\Max.pdb
+C:\Users\Snježana Mijošević\source\repos\Max\Max\obj\Debug\netcoreapp3.1\Max.genruntimeconfig.cache
+C:\Users\Snježana Mijošević\source\repos\Max\Max\obj\Debug\netcoreapp3.1\Max.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\bin\Debug\netcoreapp3.1\Neparni do 20.exe
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\bin\Debug\netcoreapp3.1\Neparni do 20.deps.json
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\bin\Debug\netcoreapp3.1\Neparni do 20.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\bin\Debug\netcoreapp3.1\Neparni do 20.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\bin\Debug\netcoreapp3.1\Neparni do 20.dll
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\bin\Debug\netcoreapp3.1\Neparni do 20.pdb
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\obj\Debug\netcoreapp3.1\Neparni do 20.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\obj\Debug\netcoreapp3.1\Neparni do 20.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\obj\Debug\netcoreapp3.1\Neparni do 20.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\obj\Debug\netcoreapp3.1\Neparni do 20.dll
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\obj\Debug\netcoreapp3.1\Neparni do 20.pdb
+C:\Users\Snježana Mijošević\source\repos\Neparni do 20\Neparni do 20\obj\Debug\netcoreapp3.1\Neparni do 20.genruntimeconfig.cache

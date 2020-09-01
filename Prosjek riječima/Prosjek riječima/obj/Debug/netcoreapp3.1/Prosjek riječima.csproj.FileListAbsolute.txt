@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\bin\Debug\netcoreapp3.1\Prosjek riječima.exe
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\bin\Debug\netcoreapp3.1\Prosjek riječima.deps.json
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\bin\Debug\netcoreapp3.1\Prosjek riječima.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\bin\Debug\netcoreapp3.1\Prosjek riječima.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\bin\Debug\netcoreapp3.1\Prosjek riječima.dll
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\bin\Debug\netcoreapp3.1\Prosjek riječima.pdb
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\obj\Debug\netcoreapp3.1\Prosjek riječima.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\obj\Debug\netcoreapp3.1\Prosjek riječima.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\obj\Debug\netcoreapp3.1\Prosjek riječima.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\obj\Debug\netcoreapp3.1\Prosjek riječima.dll
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\obj\Debug\netcoreapp3.1\Prosjek riječima.pdb
+C:\Users\Snježana Mijošević\source\repos\Prosjek riječima\Prosjek riječima\obj\Debug\netcoreapp3.1\Prosjek riječima.genruntimeconfig.cache

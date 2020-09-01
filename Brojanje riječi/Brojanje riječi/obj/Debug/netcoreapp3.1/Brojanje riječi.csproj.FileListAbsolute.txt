@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\bin\Debug\netcoreapp3.1\Brojanje riječi.exe
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\bin\Debug\netcoreapp3.1\Brojanje riječi.deps.json
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\bin\Debug\netcoreapp3.1\Brojanje riječi.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\bin\Debug\netcoreapp3.1\Brojanje riječi.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\bin\Debug\netcoreapp3.1\Brojanje riječi.dll
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\bin\Debug\netcoreapp3.1\Brojanje riječi.pdb
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\obj\Debug\netcoreapp3.1\Brojanje riječi.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\obj\Debug\netcoreapp3.1\Brojanje riječi.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\obj\Debug\netcoreapp3.1\Brojanje riječi.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\obj\Debug\netcoreapp3.1\Brojanje riječi.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\obj\Debug\netcoreapp3.1\Brojanje riječi.dll
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\obj\Debug\netcoreapp3.1\Brojanje riječi.pdb
+C:\Users\Snježana Mijošević\source\repos\Brojanje riječi\Brojanje riječi\obj\Debug\netcoreapp3.1\Brojanje riječi.genruntimeconfig.cache

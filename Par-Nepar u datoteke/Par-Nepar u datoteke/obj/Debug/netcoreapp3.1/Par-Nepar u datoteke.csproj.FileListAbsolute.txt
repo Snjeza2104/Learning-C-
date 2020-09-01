@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\obj\Debug\netcoreapp3.1\Par-Nepar u datoteke.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\obj\Debug\netcoreapp3.1\Par-Nepar u datoteke.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\obj\Debug\netcoreapp3.1\Par-Nepar u datoteke.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\bin\Debug\netcoreapp3.1\Par-Nepar u datoteke.exe
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\bin\Debug\netcoreapp3.1\Par-Nepar u datoteke.deps.json
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\bin\Debug\netcoreapp3.1\Par-Nepar u datoteke.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\bin\Debug\netcoreapp3.1\Par-Nepar u datoteke.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\bin\Debug\netcoreapp3.1\Par-Nepar u datoteke.dll
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\bin\Debug\netcoreapp3.1\Par-Nepar u datoteke.pdb
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\obj\Debug\netcoreapp3.1\Par-Nepar u datoteke.dll
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\obj\Debug\netcoreapp3.1\Par-Nepar u datoteke.pdb
+C:\Users\Snježana Mijošević\source\repos\Par-Nepar u datoteke\Par-Nepar u datoteke\obj\Debug\netcoreapp3.1\Par-Nepar u datoteke.genruntimeconfig.cache

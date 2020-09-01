@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\obj\Debug\netcoreapp3.1\Faktorijel 2.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\obj\Debug\netcoreapp3.1\Faktorijel 2.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\obj\Debug\netcoreapp3.1\Faktorijel 2.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\obj\Debug\netcoreapp3.1\Faktorijel 2.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\bin\Debug\netcoreapp3.1\Faktorijel 2.exe
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\bin\Debug\netcoreapp3.1\Faktorijel 2.deps.json
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\bin\Debug\netcoreapp3.1\Faktorijel 2.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\bin\Debug\netcoreapp3.1\Faktorijel 2.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\bin\Debug\netcoreapp3.1\Faktorijel 2.dll
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\bin\Debug\netcoreapp3.1\Faktorijel 2.pdb
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\obj\Debug\netcoreapp3.1\Faktorijel 2.dll
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\obj\Debug\netcoreapp3.1\Faktorijel 2.pdb
+C:\Users\Snježana Mijošević\source\repos\Faktorijel 2\Faktorijel 2\obj\Debug\netcoreapp3.1\Faktorijel 2.genruntimeconfig.cache

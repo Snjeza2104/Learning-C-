@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\bin\Debug\netcoreapp3.1\Znak u riječi.exe
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\bin\Debug\netcoreapp3.1\Znak u riječi.deps.json
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\bin\Debug\netcoreapp3.1\Znak u riječi.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\bin\Debug\netcoreapp3.1\Znak u riječi.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\bin\Debug\netcoreapp3.1\Znak u riječi.dll
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\bin\Debug\netcoreapp3.1\Znak u riječi.pdb
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\obj\Debug\netcoreapp3.1\Znak u riječi.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\obj\Debug\netcoreapp3.1\Znak u riječi.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\obj\Debug\netcoreapp3.1\Znak u riječi.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\obj\Debug\netcoreapp3.1\Znak u riječi.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\obj\Debug\netcoreapp3.1\Znak u riječi.dll
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\obj\Debug\netcoreapp3.1\Znak u riječi.pdb
+C:\Users\Snježana Mijošević\source\repos\Znak u riječi\Znak u riječi\obj\Debug\netcoreapp3.1\Znak u riječi.genruntimeconfig.cache

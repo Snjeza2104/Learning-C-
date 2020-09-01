@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\bin\Debug\netcoreapp3.1\Unos ispis.exe
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\bin\Debug\netcoreapp3.1\Unos ispis.deps.json
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\bin\Debug\netcoreapp3.1\Unos ispis.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\bin\Debug\netcoreapp3.1\Unos ispis.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\bin\Debug\netcoreapp3.1\Unos ispis.dll
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\bin\Debug\netcoreapp3.1\Unos ispis.pdb
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\obj\Debug\netcoreapp3.1\Unos ispis.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\obj\Debug\netcoreapp3.1\Unos ispis.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\obj\Debug\netcoreapp3.1\Unos ispis.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\obj\Debug\netcoreapp3.1\Unos ispis.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\obj\Debug\netcoreapp3.1\Unos ispis.dll
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\obj\Debug\netcoreapp3.1\Unos ispis.pdb
+C:\Users\Snježana Mijošević\source\repos\Unos ispis\Unos ispis\obj\Debug\netcoreapp3.1\Unos ispis.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\bin\Debug\netcoreapp3.1\Proizvod klasa.exe
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\bin\Debug\netcoreapp3.1\Proizvod klasa.deps.json
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\bin\Debug\netcoreapp3.1\Proizvod klasa.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\bin\Debug\netcoreapp3.1\Proizvod klasa.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\bin\Debug\netcoreapp3.1\Proizvod klasa.dll
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\bin\Debug\netcoreapp3.1\Proizvod klasa.pdb
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\obj\Debug\netcoreapp3.1\Proizvod klasa.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\obj\Debug\netcoreapp3.1\Proizvod klasa.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\obj\Debug\netcoreapp3.1\Proizvod klasa.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\obj\Debug\netcoreapp3.1\Proizvod klasa.dll
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\obj\Debug\netcoreapp3.1\Proizvod klasa.pdb
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\obj\Debug\netcoreapp3.1\Proizvod klasa.genruntimeconfig.cache
+C:\Users\Snježana Mijošević\source\repos\Proizvod klasa\Proizvod klasa\obj\Debug\netcoreapp3.1\Proizvod klasa.csprojAssemblyReference.cache

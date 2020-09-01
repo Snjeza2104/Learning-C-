@@ -1,0 +1,25 @@
+Naziv kupca: 
+Gordana Gordanić
+Ime i prezime djelatnika: 
+Mijo Mijošević
+Datum izdavanja računa: 
+01.09.2020. 10:34:11
+Broj računa: 
+1
+Naziv proizvoda: 
+Flaster
+Količina
+2
+Cijena proizvoda: 
+4.55
+Ukupna cijena stavke: 
+9.10
+Naziv proizvoda: 
+krema
+Količina
+3
+Cijena proizvoda: 
+12.50
+Ukupna cijena stavke: 
+37.50
+Ukupna cijena računa: 46.60 kn

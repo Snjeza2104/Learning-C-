@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\bin\Debug\netcoreapp3.1\Directory Tree.exe
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\bin\Debug\netcoreapp3.1\Directory Tree.deps.json
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\bin\Debug\netcoreapp3.1\Directory Tree.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\bin\Debug\netcoreapp3.1\Directory Tree.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\bin\Debug\netcoreapp3.1\Directory Tree.dll
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\bin\Debug\netcoreapp3.1\Directory Tree.pdb
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\obj\Debug\netcoreapp3.1\Directory Tree.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\obj\Debug\netcoreapp3.1\Directory Tree.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\obj\Debug\netcoreapp3.1\Directory Tree.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\obj\Debug\netcoreapp3.1\Directory Tree.dll
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\obj\Debug\netcoreapp3.1\Directory Tree.pdb
+C:\Users\Snježana Mijošević\source\repos\Directory Tree\Directory Tree\obj\Debug\netcoreapp3.1\Directory Tree.genruntimeconfig.cache

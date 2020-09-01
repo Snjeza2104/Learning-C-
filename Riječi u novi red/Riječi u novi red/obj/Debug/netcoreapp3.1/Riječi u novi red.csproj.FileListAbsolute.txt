@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\obj\Debug\netcoreapp3.1\Riječi u novi red.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\obj\Debug\netcoreapp3.1\Riječi u novi red.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\obj\Debug\netcoreapp3.1\Riječi u novi red.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\bin\Debug\netcoreapp3.1\Riječi u novi red.exe
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\bin\Debug\netcoreapp3.1\Riječi u novi red.deps.json
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\bin\Debug\netcoreapp3.1\Riječi u novi red.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\bin\Debug\netcoreapp3.1\Riječi u novi red.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\bin\Debug\netcoreapp3.1\Riječi u novi red.dll
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\bin\Debug\netcoreapp3.1\Riječi u novi red.pdb
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\obj\Debug\netcoreapp3.1\Riječi u novi red.dll
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\obj\Debug\netcoreapp3.1\Riječi u novi red.pdb
+C:\Users\Snježana Mijošević\source\repos\Riječi u novi red\Riječi u novi red\obj\Debug\netcoreapp3.1\Riječi u novi red.genruntimeconfig.cache

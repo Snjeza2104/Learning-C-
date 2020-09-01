@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\bin\Debug\netcoreapp3.1\Vozila.exe
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\bin\Debug\netcoreapp3.1\Vozila.deps.json
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\bin\Debug\netcoreapp3.1\Vozila.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\bin\Debug\netcoreapp3.1\Vozila.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\bin\Debug\netcoreapp3.1\Vozila.dll
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\bin\Debug\netcoreapp3.1\Vozila.pdb
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\obj\Debug\netcoreapp3.1\Vozila.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\obj\Debug\netcoreapp3.1\Vozila.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\obj\Debug\netcoreapp3.1\Vozila.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\obj\Debug\netcoreapp3.1\Vozila.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\obj\Debug\netcoreapp3.1\Vozila.dll
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\obj\Debug\netcoreapp3.1\Vozila.pdb
+C:\Users\Snježana Mijošević\source\repos\Vozila\Vozila\obj\Debug\netcoreapp3.1\Vozila.genruntimeconfig.cache

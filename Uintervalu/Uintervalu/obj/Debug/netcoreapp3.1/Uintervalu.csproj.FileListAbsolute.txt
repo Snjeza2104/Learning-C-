@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\bin\Debug\netcoreapp3.1\Uintervalu.exe
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\bin\Debug\netcoreapp3.1\Uintervalu.deps.json
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\bin\Debug\netcoreapp3.1\Uintervalu.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\bin\Debug\netcoreapp3.1\Uintervalu.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\bin\Debug\netcoreapp3.1\Uintervalu.dll
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\bin\Debug\netcoreapp3.1\Uintervalu.pdb
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\obj\Debug\netcoreapp3.1\Uintervalu.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\obj\Debug\netcoreapp3.1\Uintervalu.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\obj\Debug\netcoreapp3.1\Uintervalu.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\obj\Debug\netcoreapp3.1\Uintervalu.dll
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\obj\Debug\netcoreapp3.1\Uintervalu.pdb
+C:\Users\Snježana Mijošević\source\repos\Uintervalu\Uintervalu\obj\Debug\netcoreapp3.1\Uintervalu.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\bin\Debug\netcoreapp3.1\Implementacija interfejsa.exe
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\bin\Debug\netcoreapp3.1\Implementacija interfejsa.deps.json
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\bin\Debug\netcoreapp3.1\Implementacija interfejsa.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\bin\Debug\netcoreapp3.1\Implementacija interfejsa.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\bin\Debug\netcoreapp3.1\Implementacija interfejsa.dll
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\bin\Debug\netcoreapp3.1\Implementacija interfejsa.pdb
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\obj\Debug\netcoreapp3.1\Implementacija interfejsa.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\obj\Debug\netcoreapp3.1\Implementacija interfejsa.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\obj\Debug\netcoreapp3.1\Implementacija interfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\obj\Debug\netcoreapp3.1\Implementacija interfejsa.dll
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\obj\Debug\netcoreapp3.1\Implementacija interfejsa.pdb
+C:\Users\Snježana Mijošević\source\repos\Implementacija interfejsa\Implementacija interfejsa\obj\Debug\netcoreapp3.1\Implementacija interfejsa.genruntimeconfig.cache

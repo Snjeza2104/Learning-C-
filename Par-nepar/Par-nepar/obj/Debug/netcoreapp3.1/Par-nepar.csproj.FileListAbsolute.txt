@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\bin\Debug\netcoreapp3.1\Par-nepar.exe
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\bin\Debug\netcoreapp3.1\Par-nepar.deps.json
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\bin\Debug\netcoreapp3.1\Par-nepar.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\bin\Debug\netcoreapp3.1\Par-nepar.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\bin\Debug\netcoreapp3.1\Par-nepar.dll
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\bin\Debug\netcoreapp3.1\Par-nepar.pdb
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\obj\Debug\netcoreapp3.1\Par-nepar.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\obj\Debug\netcoreapp3.1\Par-nepar.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\obj\Debug\netcoreapp3.1\Par-nepar.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\obj\Debug\netcoreapp3.1\Par-nepar.dll
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\obj\Debug\netcoreapp3.1\Par-nepar.pdb
+C:\Users\Snježana Mijošević\source\repos\Par-nepar\Par-nepar\obj\Debug\netcoreapp3.1\Par-nepar.genruntimeconfig.cache

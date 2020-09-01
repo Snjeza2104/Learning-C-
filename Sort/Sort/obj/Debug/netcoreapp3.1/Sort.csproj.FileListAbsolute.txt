@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\Snježana Mijošević\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache

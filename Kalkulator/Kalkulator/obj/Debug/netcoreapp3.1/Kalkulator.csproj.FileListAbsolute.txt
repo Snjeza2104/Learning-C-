@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\Snježana Mijošević\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache

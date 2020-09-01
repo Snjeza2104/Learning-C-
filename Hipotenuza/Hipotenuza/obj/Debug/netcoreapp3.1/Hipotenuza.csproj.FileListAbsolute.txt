@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\obj\Debug\netcoreapp3.1\Hipotenuza.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\obj\Debug\netcoreapp3.1\Hipotenuza.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\obj\Debug\netcoreapp3.1\Hipotenuza.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\bin\Debug\netcoreapp3.1\Hipotenuza.exe
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\bin\Debug\netcoreapp3.1\Hipotenuza.deps.json
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\bin\Debug\netcoreapp3.1\Hipotenuza.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\bin\Debug\netcoreapp3.1\Hipotenuza.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\bin\Debug\netcoreapp3.1\Hipotenuza.dll
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\bin\Debug\netcoreapp3.1\Hipotenuza.pdb
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\obj\Debug\netcoreapp3.1\Hipotenuza.dll
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\obj\Debug\netcoreapp3.1\Hipotenuza.pdb
+C:\Users\Snježana Mijošević\source\repos\Hipotenuza\Hipotenuza\obj\Debug\netcoreapp3.1\Hipotenuza.genruntimeconfig.cache

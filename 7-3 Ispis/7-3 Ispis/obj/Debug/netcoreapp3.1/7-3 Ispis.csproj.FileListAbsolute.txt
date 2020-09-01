@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\bin\Debug\netcoreapp3.1\7-3 Ispis.exe
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\bin\Debug\netcoreapp3.1\7-3 Ispis.deps.json
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\bin\Debug\netcoreapp3.1\7-3 Ispis.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\bin\Debug\netcoreapp3.1\7-3 Ispis.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\bin\Debug\netcoreapp3.1\7-3 Ispis.dll
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\bin\Debug\netcoreapp3.1\7-3 Ispis.pdb
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\obj\Debug\netcoreapp3.1\7-3 Ispis.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\obj\Debug\netcoreapp3.1\7-3 Ispis.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\obj\Debug\netcoreapp3.1\7-3 Ispis.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\obj\Debug\netcoreapp3.1\7-3 Ispis.dll
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\obj\Debug\netcoreapp3.1\7-3 Ispis.pdb
+C:\Users\Snježana Mijošević\source\repos\7-3 Ispis\7-3 Ispis\obj\Debug\netcoreapp3.1\7-3 Ispis.genruntimeconfig.cache

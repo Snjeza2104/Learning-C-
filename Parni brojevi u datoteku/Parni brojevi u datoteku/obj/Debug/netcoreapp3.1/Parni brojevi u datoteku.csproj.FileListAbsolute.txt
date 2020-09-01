@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\bin\Debug\netcoreapp3.1\Parni brojevi u datoteku.exe
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\bin\Debug\netcoreapp3.1\Parni brojevi u datoteku.deps.json
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\bin\Debug\netcoreapp3.1\Parni brojevi u datoteku.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\bin\Debug\netcoreapp3.1\Parni brojevi u datoteku.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\bin\Debug\netcoreapp3.1\Parni brojevi u datoteku.dll
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\bin\Debug\netcoreapp3.1\Parni brojevi u datoteku.pdb
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\obj\Debug\netcoreapp3.1\Parni brojevi u datoteku.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\obj\Debug\netcoreapp3.1\Parni brojevi u datoteku.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\obj\Debug\netcoreapp3.1\Parni brojevi u datoteku.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\obj\Debug\netcoreapp3.1\Parni brojevi u datoteku.dll
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\obj\Debug\netcoreapp3.1\Parni brojevi u datoteku.pdb
+C:\Users\Snježana Mijošević\source\repos\Parni brojevi u datoteku\Parni brojevi u datoteku\obj\Debug\netcoreapp3.1\Parni brojevi u datoteku.genruntimeconfig.cache

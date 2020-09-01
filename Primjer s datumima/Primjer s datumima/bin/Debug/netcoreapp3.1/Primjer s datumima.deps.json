@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Primjer s datumima/1.0.0": {
+        "runtime": {
+          "Primjer s datumima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primjer s datumima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

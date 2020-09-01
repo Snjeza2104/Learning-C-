@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\bin\Debug\netcoreapp3.1\Stoperica.exe
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\bin\Debug\netcoreapp3.1\Stoperica.deps.json
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\bin\Debug\netcoreapp3.1\Stoperica.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\bin\Debug\netcoreapp3.1\Stoperica.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\bin\Debug\netcoreapp3.1\Stoperica.dll
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\bin\Debug\netcoreapp3.1\Stoperica.pdb
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\obj\Debug\netcoreapp3.1\Stoperica.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\obj\Debug\netcoreapp3.1\Stoperica.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\obj\Debug\netcoreapp3.1\Stoperica.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\obj\Debug\netcoreapp3.1\Stoperica.dll
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\obj\Debug\netcoreapp3.1\Stoperica.pdb
+C:\Users\Snježana Mijošević\source\repos\Stoperica\Stoperica\obj\Debug\netcoreapp3.1\Stoperica.genruntimeconfig.cache

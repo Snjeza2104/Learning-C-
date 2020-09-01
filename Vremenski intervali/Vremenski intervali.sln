@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vremenski intervali", "Vremenski intervali\Vremenski intervali.csproj", "{6FF64552-EA7E-4963-B890-E2726B0952BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF64552-EA7E-4963-B890-E2726B0952BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF64552-EA7E-4963-B890-E2726B0952BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF64552-EA7E-4963-B890-E2726B0952BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF64552-EA7E-4963-B890-E2726B0952BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64A9AAF3-5CCA-48E2-BFC8-4A90BC297427}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\obj\Debug\netcoreapp3.1\Umnozakikvocijent.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\obj\Debug\netcoreapp3.1\Umnozakikvocijent.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\obj\Debug\netcoreapp3.1\Umnozakikvocijent.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\bin\Debug\netcoreapp3.1\Umnozakikvocijent.exe
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\bin\Debug\netcoreapp3.1\Umnozakikvocijent.deps.json
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\bin\Debug\netcoreapp3.1\Umnozakikvocijent.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\bin\Debug\netcoreapp3.1\Umnozakikvocijent.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\bin\Debug\netcoreapp3.1\Umnozakikvocijent.dll
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\bin\Debug\netcoreapp3.1\Umnozakikvocijent.pdb
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\obj\Debug\netcoreapp3.1\Umnozakikvocijent.dll
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\obj\Debug\netcoreapp3.1\Umnozakikvocijent.pdb
+C:\Users\Snježana Mijošević\source\repos\Umnozakikvocijent\Umnozakikvocijent\obj\Debug\netcoreapp3.1\Umnozakikvocijent.genruntimeconfig.cache

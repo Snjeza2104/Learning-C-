@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\bin\Debug\netcoreapp3.1\Ispis unatrag.exe
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\bin\Debug\netcoreapp3.1\Ispis unatrag.deps.json
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\bin\Debug\netcoreapp3.1\Ispis unatrag.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\bin\Debug\netcoreapp3.1\Ispis unatrag.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\bin\Debug\netcoreapp3.1\Ispis unatrag.dll
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\bin\Debug\netcoreapp3.1\Ispis unatrag.pdb
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\obj\Debug\netcoreapp3.1\Ispis unatrag.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\obj\Debug\netcoreapp3.1\Ispis unatrag.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\obj\Debug\netcoreapp3.1\Ispis unatrag.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\obj\Debug\netcoreapp3.1\Ispis unatrag.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\obj\Debug\netcoreapp3.1\Ispis unatrag.dll
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\obj\Debug\netcoreapp3.1\Ispis unatrag.pdb
+C:\Users\Snježana Mijošević\source\repos\Ispis unatrag\Ispis unatrag\obj\Debug\netcoreapp3.1\Ispis unatrag.genruntimeconfig.cache

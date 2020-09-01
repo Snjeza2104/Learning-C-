@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\bin\Debug\netcoreapp3.1\KS u KW.exe
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\bin\Debug\netcoreapp3.1\KS u KW.deps.json
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\bin\Debug\netcoreapp3.1\KS u KW.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\bin\Debug\netcoreapp3.1\KS u KW.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\bin\Debug\netcoreapp3.1\KS u KW.dll
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\bin\Debug\netcoreapp3.1\KS u KW.pdb
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\obj\Debug\netcoreapp3.1\KS u KW.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\obj\Debug\netcoreapp3.1\KS u KW.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\obj\Debug\netcoreapp3.1\KS u KW.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\obj\Debug\netcoreapp3.1\KS u KW.dll
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\obj\Debug\netcoreapp3.1\KS u KW.pdb
+C:\Users\Snježana Mijošević\source\repos\KS u KW\KS u KW\obj\Debug\netcoreapp3.1\KS u KW.genruntimeconfig.cache

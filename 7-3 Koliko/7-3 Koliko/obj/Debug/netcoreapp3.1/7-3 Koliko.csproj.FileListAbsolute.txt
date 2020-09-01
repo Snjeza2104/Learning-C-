@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\bin\Debug\netcoreapp3.1\7-3 Koliko.exe
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\bin\Debug\netcoreapp3.1\7-3 Koliko.deps.json
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\bin\Debug\netcoreapp3.1\7-3 Koliko.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\bin\Debug\netcoreapp3.1\7-3 Koliko.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\bin\Debug\netcoreapp3.1\7-3 Koliko.dll
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\bin\Debug\netcoreapp3.1\7-3 Koliko.pdb
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\obj\Debug\netcoreapp3.1\7-3 Koliko.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\obj\Debug\netcoreapp3.1\7-3 Koliko.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\obj\Debug\netcoreapp3.1\7-3 Koliko.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\obj\Debug\netcoreapp3.1\7-3 Koliko.dll
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\obj\Debug\netcoreapp3.1\7-3 Koliko.pdb
+C:\Users\Snježana Mijošević\source\repos\7-3 Koliko\7-3 Koliko\obj\Debug\netcoreapp3.1\7-3 Koliko.genruntimeconfig.cache

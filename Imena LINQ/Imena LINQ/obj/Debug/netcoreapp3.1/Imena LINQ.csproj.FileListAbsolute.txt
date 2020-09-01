@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\bin\Debug\netcoreapp3.1\Imena LINQ.exe
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\bin\Debug\netcoreapp3.1\Imena LINQ.deps.json
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\bin\Debug\netcoreapp3.1\Imena LINQ.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\bin\Debug\netcoreapp3.1\Imena LINQ.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\bin\Debug\netcoreapp3.1\Imena LINQ.dll
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\bin\Debug\netcoreapp3.1\Imena LINQ.pdb
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\obj\Debug\netcoreapp3.1\Imena LINQ.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\obj\Debug\netcoreapp3.1\Imena LINQ.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\obj\Debug\netcoreapp3.1\Imena LINQ.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\obj\Debug\netcoreapp3.1\Imena LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\obj\Debug\netcoreapp3.1\Imena LINQ.dll
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\obj\Debug\netcoreapp3.1\Imena LINQ.pdb
+C:\Users\Snježana Mijošević\source\repos\Imena LINQ\Imena LINQ\obj\Debug\netcoreapp3.1\Imena LINQ.genruntimeconfig.cache

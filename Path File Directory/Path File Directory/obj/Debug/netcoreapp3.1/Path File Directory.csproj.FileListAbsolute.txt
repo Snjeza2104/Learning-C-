@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\bin\Debug\netcoreapp3.1\Path File Directory.exe
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\bin\Debug\netcoreapp3.1\Path File Directory.deps.json
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\bin\Debug\netcoreapp3.1\Path File Directory.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\bin\Debug\netcoreapp3.1\Path File Directory.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\bin\Debug\netcoreapp3.1\Path File Directory.dll
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\bin\Debug\netcoreapp3.1\Path File Directory.pdb
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\obj\Debug\netcoreapp3.1\Path File Directory.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\obj\Debug\netcoreapp3.1\Path File Directory.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\obj\Debug\netcoreapp3.1\Path File Directory.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\obj\Debug\netcoreapp3.1\Path File Directory.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\obj\Debug\netcoreapp3.1\Path File Directory.dll
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\obj\Debug\netcoreapp3.1\Path File Directory.pdb
+C:\Users\Snježana Mijošević\source\repos\Path File Directory\Path File Directory\obj\Debug\netcoreapp3.1\Path File Directory.genruntimeconfig.cache

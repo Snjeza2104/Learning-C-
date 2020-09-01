@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\bin\Debug\netcoreapp3.1\Directory Tree 2.exe
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\bin\Debug\netcoreapp3.1\Directory Tree 2.deps.json
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\bin\Debug\netcoreapp3.1\Directory Tree 2.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\bin\Debug\netcoreapp3.1\Directory Tree 2.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\bin\Debug\netcoreapp3.1\Directory Tree 2.dll
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\bin\Debug\netcoreapp3.1\Directory Tree 2.pdb
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\obj\Debug\netcoreapp3.1\Directory Tree 2.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\obj\Debug\netcoreapp3.1\Directory Tree 2.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\obj\Debug\netcoreapp3.1\Directory Tree 2.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\obj\Debug\netcoreapp3.1\Directory Tree 2.dll
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\obj\Debug\netcoreapp3.1\Directory Tree 2.pdb
+C:\Users\Snježana Mijošević\source\repos\Directory Tree 2\Directory Tree 2\obj\Debug\netcoreapp3.1\Directory Tree 2.genruntimeconfig.cache

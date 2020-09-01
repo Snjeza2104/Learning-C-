@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\bin\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.exe
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\bin\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.deps.json
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\bin\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\bin\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\bin\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.dll
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\bin\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.pdb
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\obj\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\obj\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\obj\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\obj\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.dll
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\obj\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.pdb
+C:\Users\Snježana Mijošević\source\repos\Koliko puta se pojavljuje riječ\Koliko puta se pojavljuje riječ\obj\Debug\netcoreapp3.1\Koliko puta se pojavljuje riječ.genruntimeconfig.cache

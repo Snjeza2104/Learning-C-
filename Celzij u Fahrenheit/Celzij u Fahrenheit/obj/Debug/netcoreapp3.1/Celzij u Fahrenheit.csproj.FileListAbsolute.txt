@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\bin\Debug\netcoreapp3.1\Celzij u Fahrenheit.exe
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\bin\Debug\netcoreapp3.1\Celzij u Fahrenheit.deps.json
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\bin\Debug\netcoreapp3.1\Celzij u Fahrenheit.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\bin\Debug\netcoreapp3.1\Celzij u Fahrenheit.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\bin\Debug\netcoreapp3.1\Celzij u Fahrenheit.dll
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\bin\Debug\netcoreapp3.1\Celzij u Fahrenheit.pdb
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\obj\Debug\netcoreapp3.1\Celzij u Fahrenheit.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\obj\Debug\netcoreapp3.1\Celzij u Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\obj\Debug\netcoreapp3.1\Celzij u Fahrenheit.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\obj\Debug\netcoreapp3.1\Celzij u Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\obj\Debug\netcoreapp3.1\Celzij u Fahrenheit.dll
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\obj\Debug\netcoreapp3.1\Celzij u Fahrenheit.pdb
+C:\Users\Snježana Mijošević\source\repos\Celzij u Fahrenheit\Celzij u Fahrenheit\obj\Debug\netcoreapp3.1\Celzij u Fahrenheit.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\obj\Debug\netcoreapp3.1\Zamjena mjesta.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\obj\Debug\netcoreapp3.1\Zamjena mjesta.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\obj\Debug\netcoreapp3.1\Zamjena mjesta.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\bin\Debug\netcoreapp3.1\Zamjena mjesta.exe
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\bin\Debug\netcoreapp3.1\Zamjena mjesta.deps.json
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\bin\Debug\netcoreapp3.1\Zamjena mjesta.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\bin\Debug\netcoreapp3.1\Zamjena mjesta.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\bin\Debug\netcoreapp3.1\Zamjena mjesta.dll
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\bin\Debug\netcoreapp3.1\Zamjena mjesta.pdb
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\obj\Debug\netcoreapp3.1\Zamjena mjesta.dll
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\obj\Debug\netcoreapp3.1\Zamjena mjesta.pdb
+C:\Users\Snježana Mijošević\source\repos\Zamjena mjesta\Zamjena mjesta\obj\Debug\netcoreapp3.1\Zamjena mjesta.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Znak u riječi/1.0.0": {
+        "runtime": {
+          "Znak u riječi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Znak u riječi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

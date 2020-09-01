@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\bin\Debug\netcoreapp3.1\Velikbroj.exe
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\bin\Debug\netcoreapp3.1\Velikbroj.deps.json
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\bin\Debug\netcoreapp3.1\Velikbroj.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\bin\Debug\netcoreapp3.1\Velikbroj.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\bin\Debug\netcoreapp3.1\Velikbroj.dll
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\bin\Debug\netcoreapp3.1\Velikbroj.pdb
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\obj\Debug\netcoreapp3.1\Velikbroj.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\obj\Debug\netcoreapp3.1\Velikbroj.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\obj\Debug\netcoreapp3.1\Velikbroj.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\obj\Debug\netcoreapp3.1\Velikbroj.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\obj\Debug\netcoreapp3.1\Velikbroj.dll
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\obj\Debug\netcoreapp3.1\Velikbroj.pdb
+C:\Users\Snježana Mijošević\source\repos\Velikbroj\Velikbroj\obj\Debug\netcoreapp3.1\Velikbroj.genruntimeconfig.cache

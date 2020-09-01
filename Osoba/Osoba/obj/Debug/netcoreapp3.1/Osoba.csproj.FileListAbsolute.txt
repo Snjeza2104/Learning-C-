@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\bin\Debug\netcoreapp3.1\Osoba.exe
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\bin\Debug\netcoreapp3.1\Osoba.deps.json
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\bin\Debug\netcoreapp3.1\Osoba.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\bin\Debug\netcoreapp3.1\Osoba.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\bin\Debug\netcoreapp3.1\Osoba.dll
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\bin\Debug\netcoreapp3.1\Osoba.pdb
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\obj\Debug\netcoreapp3.1\Osoba.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\obj\Debug\netcoreapp3.1\Osoba.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\obj\Debug\netcoreapp3.1\Osoba.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\obj\Debug\netcoreapp3.1\Osoba.dll
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\obj\Debug\netcoreapp3.1\Osoba.pdb
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\obj\Debug\netcoreapp3.1\Osoba.genruntimeconfig.cache
+C:\Users\Snježana Mijošević\source\repos\Osoba\Osoba\obj\Debug\netcoreapp3.1\Osoba.csprojAssemblyReference.cache

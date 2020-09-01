@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\obj\Debug\netcoreapp3.1\Zbrojirazlika.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\obj\Debug\netcoreapp3.1\Zbrojirazlika.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\obj\Debug\netcoreapp3.1\Zbrojirazlika.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\obj\Debug\netcoreapp3.1\Zbrojirazlika.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\bin\Debug\netcoreapp3.1\Zbrojirazlika.exe
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\bin\Debug\netcoreapp3.1\Zbrojirazlika.deps.json
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\bin\Debug\netcoreapp3.1\Zbrojirazlika.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\bin\Debug\netcoreapp3.1\Zbrojirazlika.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\bin\Debug\netcoreapp3.1\Zbrojirazlika.dll
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\bin\Debug\netcoreapp3.1\Zbrojirazlika.pdb
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\obj\Debug\netcoreapp3.1\Zbrojirazlika.dll
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\obj\Debug\netcoreapp3.1\Zbrojirazlika.pdb
+C:\Users\Snježana Mijošević\source\repos\Zbrojirazlika\Zbrojirazlika\obj\Debug\netcoreapp3.1\Zbrojirazlika.genruntimeconfig.cache

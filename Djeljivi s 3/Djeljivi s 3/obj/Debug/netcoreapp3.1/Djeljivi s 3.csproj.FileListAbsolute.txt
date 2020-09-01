@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\bin\Debug\netcoreapp3.1\Djeljivi s 3.exe
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\bin\Debug\netcoreapp3.1\Djeljivi s 3.deps.json
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\bin\Debug\netcoreapp3.1\Djeljivi s 3.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\bin\Debug\netcoreapp3.1\Djeljivi s 3.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\bin\Debug\netcoreapp3.1\Djeljivi s 3.dll
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\bin\Debug\netcoreapp3.1\Djeljivi s 3.pdb
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\obj\Debug\netcoreapp3.1\Djeljivi s 3.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\obj\Debug\netcoreapp3.1\Djeljivi s 3.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\obj\Debug\netcoreapp3.1\Djeljivi s 3.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\obj\Debug\netcoreapp3.1\Djeljivi s 3.dll
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\obj\Debug\netcoreapp3.1\Djeljivi s 3.pdb
+C:\Users\Snježana Mijošević\source\repos\Djeljivi s 3\Djeljivi s 3\obj\Debug\netcoreapp3.1\Djeljivi s 3.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\bin\Debug\netcoreapp3.1\Vremenski intervali.exe
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\bin\Debug\netcoreapp3.1\Vremenski intervali.deps.json
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\bin\Debug\netcoreapp3.1\Vremenski intervali.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\bin\Debug\netcoreapp3.1\Vremenski intervali.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\bin\Debug\netcoreapp3.1\Vremenski intervali.dll
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\bin\Debug\netcoreapp3.1\Vremenski intervali.pdb
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\obj\Debug\netcoreapp3.1\Vremenski intervali.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\obj\Debug\netcoreapp3.1\Vremenski intervali.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\obj\Debug\netcoreapp3.1\Vremenski intervali.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\obj\Debug\netcoreapp3.1\Vremenski intervali.dll
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\obj\Debug\netcoreapp3.1\Vremenski intervali.pdb
+C:\Users\Snježana Mijošević\source\repos\Vremenski intervali\Vremenski intervali\obj\Debug\netcoreapp3.1\Vremenski intervali.genruntimeconfig.cache

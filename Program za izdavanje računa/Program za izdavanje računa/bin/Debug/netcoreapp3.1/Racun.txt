@@ -1,0 +1,25 @@
+Naziv kupca: 
+Snježana Mijošević
+Ime i prezime djelatnika: 
+Tihomir Mijošević
+Datum izdavanja računa: 
+01.09.2020. 9:43:45
+Broj računa: 
+000175
+Naziv proizvoda: 
+Naočale
+Količina
+1
+Cijena proizvoda: 
+1228.00
+Ukupna cijena stavke: 
+1228.00
+Naziv proizvoda: 
+Električni romobil
+Količina
+1
+Cijena proizvoda: 
+2499.00
+Ukupna cijena stavke: 
+2499.00
+Ukupna cijena računa: 3727.00 kn

@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\bin\Debug\netcoreapp3.1\Osobe i životinje.exe
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\bin\Debug\netcoreapp3.1\Osobe i životinje.deps.json
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\bin\Debug\netcoreapp3.1\Osobe i životinje.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\bin\Debug\netcoreapp3.1\Osobe i životinje.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\bin\Debug\netcoreapp3.1\Osobe i životinje.dll
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\bin\Debug\netcoreapp3.1\Osobe i životinje.pdb
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\obj\Debug\netcoreapp3.1\Osobe i životinje.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\obj\Debug\netcoreapp3.1\Osobe i životinje.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\obj\Debug\netcoreapp3.1\Osobe i životinje.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\obj\Debug\netcoreapp3.1\Osobe i životinje.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\obj\Debug\netcoreapp3.1\Osobe i životinje.dll
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\obj\Debug\netcoreapp3.1\Osobe i životinje.pdb
+C:\Users\Snježana Mijošević\source\repos\Osobe i životinje\Osobe i životinje\obj\Debug\netcoreapp3.1\Osobe i životinje.genruntimeconfig.cache

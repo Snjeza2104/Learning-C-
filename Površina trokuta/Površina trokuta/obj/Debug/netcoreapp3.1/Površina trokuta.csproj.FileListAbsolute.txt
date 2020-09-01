@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\bin\Debug\netcoreapp3.1\Površina trokuta.exe
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\bin\Debug\netcoreapp3.1\Površina trokuta.deps.json
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\bin\Debug\netcoreapp3.1\Površina trokuta.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\bin\Debug\netcoreapp3.1\Površina trokuta.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\bin\Debug\netcoreapp3.1\Površina trokuta.dll
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\bin\Debug\netcoreapp3.1\Površina trokuta.pdb
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\obj\Debug\netcoreapp3.1\Površina trokuta.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\obj\Debug\netcoreapp3.1\Površina trokuta.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\obj\Debug\netcoreapp3.1\Površina trokuta.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\obj\Debug\netcoreapp3.1\Površina trokuta.dll
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\obj\Debug\netcoreapp3.1\Površina trokuta.pdb
+C:\Users\Snježana Mijošević\source\repos\Površina trokuta\Površina trokuta\obj\Debug\netcoreapp3.1\Površina trokuta.genruntimeconfig.cache

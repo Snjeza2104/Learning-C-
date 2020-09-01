@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\bin\Debug\netcoreapp3.1\Riječ u rečenici.exe
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\bin\Debug\netcoreapp3.1\Riječ u rečenici.deps.json
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\bin\Debug\netcoreapp3.1\Riječ u rečenici.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\bin\Debug\netcoreapp3.1\Riječ u rečenici.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\bin\Debug\netcoreapp3.1\Riječ u rečenici.dll
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\bin\Debug\netcoreapp3.1\Riječ u rečenici.pdb
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\obj\Debug\netcoreapp3.1\Riječ u rečenici.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\obj\Debug\netcoreapp3.1\Riječ u rečenici.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\obj\Debug\netcoreapp3.1\Riječ u rečenici.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\obj\Debug\netcoreapp3.1\Riječ u rečenici.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\obj\Debug\netcoreapp3.1\Riječ u rečenici.dll
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\obj\Debug\netcoreapp3.1\Riječ u rečenici.pdb
+C:\Users\Snježana Mijošević\source\repos\Riječ u rečenici\Riječ u rečenici\obj\Debug\netcoreapp3.1\Riječ u rečenici.genruntimeconfig.cache

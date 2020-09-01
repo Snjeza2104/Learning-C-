@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\bin\Debug\netcoreapp3.1\Program za izdavanje računa.exe
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\bin\Debug\netcoreapp3.1\Program za izdavanje računa.deps.json
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\bin\Debug\netcoreapp3.1\Program za izdavanje računa.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\bin\Debug\netcoreapp3.1\Program za izdavanje računa.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\bin\Debug\netcoreapp3.1\Program za izdavanje računa.dll
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\bin\Debug\netcoreapp3.1\Program za izdavanje računa.pdb
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\obj\Debug\netcoreapp3.1\Program za izdavanje računa.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\obj\Debug\netcoreapp3.1\Program za izdavanje računa.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\obj\Debug\netcoreapp3.1\Program za izdavanje računa.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\obj\Debug\netcoreapp3.1\Program za izdavanje računa.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\obj\Debug\netcoreapp3.1\Program za izdavanje računa.dll
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\obj\Debug\netcoreapp3.1\Program za izdavanje računa.pdb
+C:\Users\Snježana Mijošević\source\repos\Program za izdavanje računa\Program za izdavanje računa\obj\Debug\netcoreapp3.1\Program za izdavanje računa.genruntimeconfig.cache

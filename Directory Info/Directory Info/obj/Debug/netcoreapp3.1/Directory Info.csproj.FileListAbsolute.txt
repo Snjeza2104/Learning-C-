@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\bin\Debug\netcoreapp3.1\Directory Info.exe
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\bin\Debug\netcoreapp3.1\Directory Info.deps.json
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\bin\Debug\netcoreapp3.1\Directory Info.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\bin\Debug\netcoreapp3.1\Directory Info.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\bin\Debug\netcoreapp3.1\Directory Info.dll
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\bin\Debug\netcoreapp3.1\Directory Info.pdb
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\obj\Debug\netcoreapp3.1\Directory Info.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\obj\Debug\netcoreapp3.1\Directory Info.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\obj\Debug\netcoreapp3.1\Directory Info.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\obj\Debug\netcoreapp3.1\Directory Info.dll
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\obj\Debug\netcoreapp3.1\Directory Info.pdb
+C:\Users\Snježana Mijošević\source\repos\Directory Info\Directory Info\obj\Debug\netcoreapp3.1\Directory Info.genruntimeconfig.cache

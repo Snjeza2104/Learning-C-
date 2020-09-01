@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\bin\Debug\netcoreapp3.1\Znamenke.exe
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\bin\Debug\netcoreapp3.1\Znamenke.deps.json
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\bin\Debug\netcoreapp3.1\Znamenke.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\bin\Debug\netcoreapp3.1\Znamenke.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\bin\Debug\netcoreapp3.1\Znamenke.dll
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\bin\Debug\netcoreapp3.1\Znamenke.pdb
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\obj\Debug\netcoreapp3.1\Znamenke.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\obj\Debug\netcoreapp3.1\Znamenke.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\obj\Debug\netcoreapp3.1\Znamenke.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\obj\Debug\netcoreapp3.1\Znamenke.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\obj\Debug\netcoreapp3.1\Znamenke.dll
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\obj\Debug\netcoreapp3.1\Znamenke.pdb
+C:\Users\Snježana Mijošević\source\repos\Znamenke\Znamenke\obj\Debug\netcoreapp3.1\Znamenke.genruntimeconfig.cache

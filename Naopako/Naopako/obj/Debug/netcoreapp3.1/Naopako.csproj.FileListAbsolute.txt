@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\bin\Debug\netcoreapp3.1\Naopako.exe
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\bin\Debug\netcoreapp3.1\Naopako.deps.json
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\bin\Debug\netcoreapp3.1\Naopako.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\bin\Debug\netcoreapp3.1\Naopako.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\bin\Debug\netcoreapp3.1\Naopako.dll
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\bin\Debug\netcoreapp3.1\Naopako.pdb
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\obj\Debug\netcoreapp3.1\Naopako.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\obj\Debug\netcoreapp3.1\Naopako.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\obj\Debug\netcoreapp3.1\Naopako.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\obj\Debug\netcoreapp3.1\Naopako.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\obj\Debug\netcoreapp3.1\Naopako.dll
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\obj\Debug\netcoreapp3.1\Naopako.pdb
+C:\Users\Snježana Mijošević\source\repos\Naopako\Naopako\obj\Debug\netcoreapp3.1\Naopako.genruntimeconfig.cache

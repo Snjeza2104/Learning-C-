@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neparni do 20", "Neparni do 20\Neparni do 20.csproj", "{A92D0ECF-ECF6-4C8C-B108-EA1DBFEE62DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92D0ECF-ECF6-4C8C-B108-EA1DBFEE62DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92D0ECF-ECF6-4C8C-B108-EA1DBFEE62DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92D0ECF-ECF6-4C8C-B108-EA1DBFEE62DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92D0ECF-ECF6-4C8C-B108-EA1DBFEE62DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1EA5EFE-3415-4C66-8A94-4EB36CC3F44B}
+	EndGlobalSection
+EndGlobal

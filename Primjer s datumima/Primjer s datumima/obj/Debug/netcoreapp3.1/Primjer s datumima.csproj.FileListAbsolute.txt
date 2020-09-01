@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\bin\Debug\netcoreapp3.1\Primjer s datumima.exe
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\bin\Debug\netcoreapp3.1\Primjer s datumima.deps.json
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\bin\Debug\netcoreapp3.1\Primjer s datumima.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\bin\Debug\netcoreapp3.1\Primjer s datumima.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\bin\Debug\netcoreapp3.1\Primjer s datumima.dll
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\bin\Debug\netcoreapp3.1\Primjer s datumima.pdb
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\obj\Debug\netcoreapp3.1\Primjer s datumima.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\obj\Debug\netcoreapp3.1\Primjer s datumima.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\obj\Debug\netcoreapp3.1\Primjer s datumima.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\obj\Debug\netcoreapp3.1\Primjer s datumima.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\obj\Debug\netcoreapp3.1\Primjer s datumima.dll
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\obj\Debug\netcoreapp3.1\Primjer s datumima.pdb
+C:\Users\Snježana Mijošević\source\repos\Primjer s datumima\Primjer s datumima\obj\Debug\netcoreapp3.1\Primjer s datumima.genruntimeconfig.cache

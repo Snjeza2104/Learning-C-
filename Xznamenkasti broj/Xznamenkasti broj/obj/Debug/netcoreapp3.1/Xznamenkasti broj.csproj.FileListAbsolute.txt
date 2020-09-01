@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\bin\Debug\netcoreapp3.1\Xznamenkasti broj.exe
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\bin\Debug\netcoreapp3.1\Xznamenkasti broj.deps.json
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\bin\Debug\netcoreapp3.1\Xznamenkasti broj.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\bin\Debug\netcoreapp3.1\Xznamenkasti broj.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\bin\Debug\netcoreapp3.1\Xznamenkasti broj.dll
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\bin\Debug\netcoreapp3.1\Xznamenkasti broj.pdb
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\obj\Debug\netcoreapp3.1\Xznamenkasti broj.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\obj\Debug\netcoreapp3.1\Xznamenkasti broj.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\obj\Debug\netcoreapp3.1\Xznamenkasti broj.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\obj\Debug\netcoreapp3.1\Xznamenkasti broj.dll
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\obj\Debug\netcoreapp3.1\Xznamenkasti broj.pdb
+C:\Users\Snježana Mijošević\source\repos\Xznamenkasti broj\Xznamenkasti broj\obj\Debug\netcoreapp3.1\Xznamenkasti broj.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\bin\Debug\netcoreapp3.1\Završni uspjeh.exe
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\bin\Debug\netcoreapp3.1\Završni uspjeh.deps.json
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\bin\Debug\netcoreapp3.1\Završni uspjeh.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\bin\Debug\netcoreapp3.1\Završni uspjeh.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\bin\Debug\netcoreapp3.1\Završni uspjeh.dll
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\bin\Debug\netcoreapp3.1\Završni uspjeh.pdb
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\obj\Debug\netcoreapp3.1\Završni uspjeh.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\obj\Debug\netcoreapp3.1\Završni uspjeh.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\obj\Debug\netcoreapp3.1\Završni uspjeh.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\obj\Debug\netcoreapp3.1\Završni uspjeh.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\obj\Debug\netcoreapp3.1\Završni uspjeh.dll
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\obj\Debug\netcoreapp3.1\Završni uspjeh.pdb
+C:\Users\Snježana Mijošević\source\repos\Završni uspjeh\Završni uspjeh\obj\Debug\netcoreapp3.1\Završni uspjeh.genruntimeconfig.cache

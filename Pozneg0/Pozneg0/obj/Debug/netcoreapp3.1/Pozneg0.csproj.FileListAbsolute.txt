@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\bin\Debug\netcoreapp3.1\Pozneg0.exe
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\bin\Debug\netcoreapp3.1\Pozneg0.deps.json
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\bin\Debug\netcoreapp3.1\Pozneg0.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\bin\Debug\netcoreapp3.1\Pozneg0.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\bin\Debug\netcoreapp3.1\Pozneg0.dll
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\bin\Debug\netcoreapp3.1\Pozneg0.pdb
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\obj\Debug\netcoreapp3.1\Pozneg0.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\obj\Debug\netcoreapp3.1\Pozneg0.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\obj\Debug\netcoreapp3.1\Pozneg0.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\obj\Debug\netcoreapp3.1\Pozneg0.dll
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\obj\Debug\netcoreapp3.1\Pozneg0.pdb
+C:\Users\Snježana Mijošević\source\repos\Pozneg0\Pozneg0\obj\Debug\netcoreapp3.1\Pozneg0.genruntimeconfig.cache

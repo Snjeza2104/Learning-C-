@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\obj\Debug\netcoreapp3.1\Prost broj ponovno.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\obj\Debug\netcoreapp3.1\Prost broj ponovno.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\obj\Debug\netcoreapp3.1\Prost broj ponovno.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\bin\Debug\netcoreapp3.1\Prost broj ponovno.exe
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\bin\Debug\netcoreapp3.1\Prost broj ponovno.deps.json
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\bin\Debug\netcoreapp3.1\Prost broj ponovno.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\bin\Debug\netcoreapp3.1\Prost broj ponovno.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\bin\Debug\netcoreapp3.1\Prost broj ponovno.dll
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\bin\Debug\netcoreapp3.1\Prost broj ponovno.pdb
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\obj\Debug\netcoreapp3.1\Prost broj ponovno.dll
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\obj\Debug\netcoreapp3.1\Prost broj ponovno.pdb
+C:\Users\Snježana Mijošević\source\repos\Prost broj ponovno\Prost broj ponovno\obj\Debug\netcoreapp3.1\Prost broj ponovno.genruntimeconfig.cache

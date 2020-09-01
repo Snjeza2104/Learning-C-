@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rad s datotekama/1.0.0": {
+        "runtime": {
+          "Rad s datotekama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rad s datotekama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

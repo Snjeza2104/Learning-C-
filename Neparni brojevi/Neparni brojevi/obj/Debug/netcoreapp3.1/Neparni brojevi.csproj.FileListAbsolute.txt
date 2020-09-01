@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\bin\Debug\netcoreapp3.1\Neparni brojevi.exe
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\bin\Debug\netcoreapp3.1\Neparni brojevi.deps.json
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\bin\Debug\netcoreapp3.1\Neparni brojevi.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\bin\Debug\netcoreapp3.1\Neparni brojevi.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\bin\Debug\netcoreapp3.1\Neparni brojevi.dll
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\bin\Debug\netcoreapp3.1\Neparni brojevi.pdb
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\obj\Debug\netcoreapp3.1\Neparni brojevi.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\obj\Debug\netcoreapp3.1\Neparni brojevi.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\obj\Debug\netcoreapp3.1\Neparni brojevi.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\obj\Debug\netcoreapp3.1\Neparni brojevi.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\obj\Debug\netcoreapp3.1\Neparni brojevi.dll
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\obj\Debug\netcoreapp3.1\Neparni brojevi.pdb
+C:\Users\Snježana Mijošević\source\repos\Neparni brojevi\Neparni brojevi\obj\Debug\netcoreapp3.1\Neparni brojevi.genruntimeconfig.cache

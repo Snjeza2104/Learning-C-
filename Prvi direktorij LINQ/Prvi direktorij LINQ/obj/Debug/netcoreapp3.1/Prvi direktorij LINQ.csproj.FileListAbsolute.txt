@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\bin\Debug\netcoreapp3.1\Prvi direktorij LINQ.exe
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\bin\Debug\netcoreapp3.1\Prvi direktorij LINQ.deps.json
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\bin\Debug\netcoreapp3.1\Prvi direktorij LINQ.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\bin\Debug\netcoreapp3.1\Prvi direktorij LINQ.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\bin\Debug\netcoreapp3.1\Prvi direktorij LINQ.dll
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\bin\Debug\netcoreapp3.1\Prvi direktorij LINQ.pdb
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\obj\Debug\netcoreapp3.1\Prvi direktorij LINQ.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\obj\Debug\netcoreapp3.1\Prvi direktorij LINQ.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\obj\Debug\netcoreapp3.1\Prvi direktorij LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\obj\Debug\netcoreapp3.1\Prvi direktorij LINQ.dll
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\obj\Debug\netcoreapp3.1\Prvi direktorij LINQ.pdb
+C:\Users\Snježana Mijošević\source\repos\Prvi direktorij LINQ\Prvi direktorij LINQ\obj\Debug\netcoreapp3.1\Prvi direktorij LINQ.genruntimeconfig.cache

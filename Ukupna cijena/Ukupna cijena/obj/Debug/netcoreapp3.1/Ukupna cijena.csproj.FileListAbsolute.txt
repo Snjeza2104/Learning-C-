@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\bin\Debug\netcoreapp3.1\Ukupna cijena.exe
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\bin\Debug\netcoreapp3.1\Ukupna cijena.deps.json
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\bin\Debug\netcoreapp3.1\Ukupna cijena.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\bin\Debug\netcoreapp3.1\Ukupna cijena.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\bin\Debug\netcoreapp3.1\Ukupna cijena.dll
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\bin\Debug\netcoreapp3.1\Ukupna cijena.pdb
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\obj\Debug\netcoreapp3.1\Ukupna cijena.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\obj\Debug\netcoreapp3.1\Ukupna cijena.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\obj\Debug\netcoreapp3.1\Ukupna cijena.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\obj\Debug\netcoreapp3.1\Ukupna cijena.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\obj\Debug\netcoreapp3.1\Ukupna cijena.dll
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\obj\Debug\netcoreapp3.1\Ukupna cijena.pdb
+C:\Users\Snježana Mijošević\source\repos\Ukupna cijena\Ukupna cijena\obj\Debug\netcoreapp3.1\Ukupna cijena.genruntimeconfig.cache

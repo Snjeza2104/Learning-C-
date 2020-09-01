@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\bin\Debug\netcoreapp3.1\Udaljenost točaka.exe
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\bin\Debug\netcoreapp3.1\Udaljenost točaka.deps.json
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\bin\Debug\netcoreapp3.1\Udaljenost točaka.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\bin\Debug\netcoreapp3.1\Udaljenost točaka.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\bin\Debug\netcoreapp3.1\Udaljenost točaka.dll
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\bin\Debug\netcoreapp3.1\Udaljenost točaka.pdb
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\obj\Debug\netcoreapp3.1\Udaljenost točaka.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\obj\Debug\netcoreapp3.1\Udaljenost točaka.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\obj\Debug\netcoreapp3.1\Udaljenost točaka.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\obj\Debug\netcoreapp3.1\Udaljenost točaka.dll
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\obj\Debug\netcoreapp3.1\Udaljenost točaka.pdb
+C:\Users\Snježana Mijošević\source\repos\Udaljenost točaka\Udaljenost točaka\obj\Debug\netcoreapp3.1\Udaljenost točaka.genruntimeconfig.cache

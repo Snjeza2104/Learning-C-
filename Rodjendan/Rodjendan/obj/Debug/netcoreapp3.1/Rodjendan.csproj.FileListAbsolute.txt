@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\bin\Debug\netcoreapp3.1\Rodjendan.exe
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\bin\Debug\netcoreapp3.1\Rodjendan.deps.json
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\bin\Debug\netcoreapp3.1\Rodjendan.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\bin\Debug\netcoreapp3.1\Rodjendan.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\bin\Debug\netcoreapp3.1\Rodjendan.dll
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\bin\Debug\netcoreapp3.1\Rodjendan.pdb
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\obj\Debug\netcoreapp3.1\Rodjendan.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\obj\Debug\netcoreapp3.1\Rodjendan.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\obj\Debug\netcoreapp3.1\Rodjendan.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\obj\Debug\netcoreapp3.1\Rodjendan.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\obj\Debug\netcoreapp3.1\Rodjendan.dll
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\obj\Debug\netcoreapp3.1\Rodjendan.pdb
+C:\Users\Snježana Mijošević\source\repos\Rodjendan\Rodjendan\obj\Debug\netcoreapp3.1\Rodjendan.genruntimeconfig.cache

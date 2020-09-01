@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Brojevi LINQ/1.0.0": {
+        "runtime": {
+          "Brojevi LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brojevi LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Neparni do 20/1.0.0": {
+        "runtime": {
+          "Neparni do 20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neparni do 20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

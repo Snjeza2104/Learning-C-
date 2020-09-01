@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\bin\Debug\netcoreapp3.1\Dobarbroj1.exe
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\bin\Debug\netcoreapp3.1\Dobarbroj1.deps.json
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\bin\Debug\netcoreapp3.1\Dobarbroj1.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\bin\Debug\netcoreapp3.1\Dobarbroj1.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\bin\Debug\netcoreapp3.1\Dobarbroj1.dll
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\bin\Debug\netcoreapp3.1\Dobarbroj1.pdb
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\obj\Debug\netcoreapp3.1\Dobarbroj1.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\obj\Debug\netcoreapp3.1\Dobarbroj1.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\obj\Debug\netcoreapp3.1\Dobarbroj1.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\obj\Debug\netcoreapp3.1\Dobarbroj1.dll
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\obj\Debug\netcoreapp3.1\Dobarbroj1.pdb
+C:\Users\Snježana Mijošević\source\repos\Dobarbroj1\Dobarbroj1\obj\Debug\netcoreapp3.1\Dobarbroj1.genruntimeconfig.cache

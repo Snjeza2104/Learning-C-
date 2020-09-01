@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\bin\Debug\netcoreapp3.1\Brojevi LINQ.exe
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\bin\Debug\netcoreapp3.1\Brojevi LINQ.deps.json
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\bin\Debug\netcoreapp3.1\Brojevi LINQ.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\bin\Debug\netcoreapp3.1\Brojevi LINQ.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\bin\Debug\netcoreapp3.1\Brojevi LINQ.dll
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\bin\Debug\netcoreapp3.1\Brojevi LINQ.pdb
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\obj\Debug\netcoreapp3.1\Brojevi LINQ.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\obj\Debug\netcoreapp3.1\Brojevi LINQ.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\obj\Debug\netcoreapp3.1\Brojevi LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\obj\Debug\netcoreapp3.1\Brojevi LINQ.dll
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\obj\Debug\netcoreapp3.1\Brojevi LINQ.pdb
+C:\Users\Snježana Mijošević\source\repos\Brojevi LINQ\Brojevi LINQ\obj\Debug\netcoreapp3.1\Brojevi LINQ.genruntimeconfig.cache

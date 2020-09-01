@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Koliko puta se pojavljuje riječ/1.0.0": {
+        "runtime": {
+          "Koliko puta se pojavljuje riječ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Koliko puta se pojavljuje riječ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

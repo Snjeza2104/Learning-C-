@@ -1,0 +1,12 @@
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\bin\Debug\netcoreapp3.1\Djelitelji.exe
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\bin\Debug\netcoreapp3.1\Djelitelji.deps.json
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\bin\Debug\netcoreapp3.1\Djelitelji.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\bin\Debug\netcoreapp3.1\Djelitelji.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\bin\Debug\netcoreapp3.1\Djelitelji.dll
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\bin\Debug\netcoreapp3.1\Djelitelji.pdb
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\obj\Debug\netcoreapp3.1\Djelitelji.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\obj\Debug\netcoreapp3.1\Djelitelji.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\obj\Debug\netcoreapp3.1\Djelitelji.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\obj\Debug\netcoreapp3.1\Djelitelji.dll
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\obj\Debug\netcoreapp3.1\Djelitelji.pdb
+C:\Users\Snježana Mijošević\source\repos\Djelitelji\Djelitelji\obj\Debug\netcoreapp3.1\Djelitelji.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\bin\Debug\netcoreapp3.1\Rad s datotekama.exe
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\bin\Debug\netcoreapp3.1\Rad s datotekama.deps.json
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\bin\Debug\netcoreapp3.1\Rad s datotekama.runtimeconfig.json
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\bin\Debug\netcoreapp3.1\Rad s datotekama.runtimeconfig.dev.json
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\bin\Debug\netcoreapp3.1\Rad s datotekama.dll
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\bin\Debug\netcoreapp3.1\Rad s datotekama.pdb
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\obj\Debug\netcoreapp3.1\Rad s datotekama.csprojAssemblyReference.cache
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\obj\Debug\netcoreapp3.1\Rad s datotekama.AssemblyInfoInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\obj\Debug\netcoreapp3.1\Rad s datotekama.AssemblyInfo.cs
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\obj\Debug\netcoreapp3.1\Rad s datotekama.csproj.CoreCompileInputs.cache
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\obj\Debug\netcoreapp3.1\Rad s datotekama.dll
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\obj\Debug\netcoreapp3.1\Rad s datotekama.pdb
+C:\Users\Snježana Mijošević\source\repos\Rad s datotekama\Rad s datotekama\obj\Debug\netcoreapp3.1\Rad s datotekama.genruntimeconfig.cache
