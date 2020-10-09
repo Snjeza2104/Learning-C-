@@ -1,0 +1,39 @@
+﻿@model projekt_4_2_vj.Models.Artikl
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>NaruciArtikal</title>
+</head>
+<body>
+    <div> 
+        <form method="post">
+            <label>Kategorija</label>
+            <select name="Kategorija">
+                <option value="sapun">Sapun</option>
+                <option value="gel">Gel</option>
+                <option value="krema">Krema</option>
+                <option value="losion">Losion</option>
+            </select>
+                   <label>Naziv</label>
+            <input type="text" name="Naziv" /><br />
+                   <label>Cijena</label>
+            <input type="text" name="Cijena" /><br />
+                   <label>Količina</label>
+            <input type="text" name="Kolicina" /><br />
+            <button  type="submit">Pošalji</button>
+        </form>
+    </div>
+    <div>
+        <label>@ViewBag.poruka</label>
+    </div>
+</body>
+</html>
+
+
+   

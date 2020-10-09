@@ -1,0 +1,18 @@
+﻿@model projekt_6_2_vj.Models.Artikl
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TemplateKategorija</title>
+</head>
+<body>
+    <div>
+        @Html.DropDownListFor(x => x, new SelectList((string[])ViewBag.Kategorije), "--Kategorija--")
+    </div>
+</body>
+</html>

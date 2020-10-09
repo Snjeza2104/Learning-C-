@@ -1,0 +1,26 @@
+﻿@model List<projekt_5_4_vj.Models.Artikl>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ObradiListu</title>
+</head>
+<body>
+    <div>
+        <h2>Artikli:</h2>
+        <div style="display: table">
+            <div class="divCell">Naziv</div>
+            <div class="divCell">Cijena</div>
+        </div>
+        @foreach(var item in Model)
+        {
+            @Html.Partial("../Shared/PrikaziArtikl",item)
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿@model List<projekt_5_5_vj.Models.Artikl>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ObradiListu</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <tr>
+                <th>Naziv</th>
+                <th>Cijena</th>
+                <th>Kategorija</th>
+            </tr>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Naziv</td>
+                    <td>@item.Cijena</td>
+                    <td>@Html.Action("OdrediKategoriju", new {artikl= item})</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

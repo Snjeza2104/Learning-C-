@@ -1,0 +1,18 @@
+﻿@model List<projekt_5_3_vj.Models.Artikl>
+@{
+    ViewBag.Title = "PrikaziKosaricu";
+}
+
+<h2>PrikaziKosaricu</h2>
+
+<link href="~/Content/Styles.css" rel="stylesheet" />
+<div style="display:table">
+    <div class="divCell"><b>Naziv</b></div>
+    <div class="divCell"><b>Cijena</b></div>
+    <div class="divCell"><b>Količina</b></div>
+</div>
+
+@foreach(var item in Model)
+{
+    @Html.Partial("../Shared folder/_Artikl", item)
+}

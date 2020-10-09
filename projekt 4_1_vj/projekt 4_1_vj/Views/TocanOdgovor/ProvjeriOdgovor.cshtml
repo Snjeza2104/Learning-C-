@@ -1,0 +1,33 @@
+﻿@model string
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ProvjeriOdgovor</title>
+</head>
+<body>
+    <div> 
+        <form method="post">
+            Prvo slovo abecede je:<br/>
+            <input type="radio" id="1" name="odgovor" value="a">
+            a<br>
+            <input type="radio" id="2" name="odgovor" value="b">
+            b<br>
+            <input type="radio" id="3" name="odgovor" value="c">
+            c<br/>
+            <input type="radio" id="4" name="odgovor" value="d">
+            d<br />
+            <button type="submit">Pošalji</button>
+
+        </form>
+    </div>
+    <div>
+        <label>@Model</label>
+    </div>
+</body>
+</html>

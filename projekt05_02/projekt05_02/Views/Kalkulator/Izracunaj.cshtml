@@ -1,0 +1,52 @@
+﻿@model string
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Izracunaj</title>
+</head>
+<body>
+    <div>
+        <h3>Kalkulator</h3>
+        <form method="post">
+            <input type="text" name="a" value="@ViewBag.a" />
+            <input type="text" name="b" value="@ViewBag.b"/>
+            <button type="submit" name="z" value="+">+</button>
+            <button type="submit" name="z" value="-">-</button>
+            <button type="submit" name="z" value="*">*</button>
+            <button type="submit" name="z" value="/">/</button>
+        </form>
+        <div>
+            @if (Model != null)
+            {
+                <hr />
+                @:Rezultat:
+                switch (Model)
+                {
+                    case "+":
+                        <strong>@(string.Format("{0:N2}",ViewBag.a + ViewBag.b))</strong>
+                                break;
+                            case "-":
+                        <strong>@(string.Format("{0:N2}",ViewBag.a - ViewBag.b))</strong>
+                                break;
+                            case "*":
+                        <strong>@(string.Format("{0:N2}",ViewBag.a * ViewBag.b))</strong>
+                                break;
+                            case "/":
+                        <strong>@(string.Format("{0:N2}",ViewBag.a / ViewBag.b))</strong>
+                        break;
+                            default:
+                        <strong>Nepoznata računska operacija!</strong>
+                        break;
+                }
+            }
+        </div>
+        <label>@Model</label>
+    </div>
+</body>
+</html>

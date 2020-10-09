@@ -1,0 +1,47 @@
+﻿@model projekt_6_1_vj.Models.Artikl
+@{
+    Layout = null;
+    Html.EnableClientValidation(false);
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UnesiArtikl</title>
+    <style>
+        label{
+            width:150px;
+            padding-top:10px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h3>Unos novog artikla</h3>
+    <div> 
+        @using(Html.BeginForm("DodajArtikl", "ListaArtikala"))
+        {
+        <div>
+            <label>Naziv</label>
+            @Html.TextBoxFor(x => x.Naziv)
+        </div>
+        <div>
+            <label>Kategorija</label>
+            @Html.DropDownListFor(x=>x.Kategorija, new SelectList((string[])ViewBag.Kategorija), "--Odaberi--")
+        </div>
+        <div>
+            <label>Cijena:</label>
+            @Html.TextBoxFor(x => x.Cijena)
+        </div>
+        <div>
+            <label>Količina</label>
+            @Html.TextBoxFor(x => x.Kolicina)
+        </div>
+
+        <input type="submit" value="Pošalji" />
+        }
+    </div>
+</body>
+</html>

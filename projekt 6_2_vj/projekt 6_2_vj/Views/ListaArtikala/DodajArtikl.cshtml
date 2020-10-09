@@ -1,0 +1,45 @@
+﻿@using projekt_6_2_vj.Models
+@model List<Artikl>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DodajArtikl</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h3>Lista artikala</h3>
+    <table>
+        <tr>
+            <th>Naziv</th>
+            <th>Kategorija</th>
+            <th>Cijena</th>
+            <th>Količina</th>
+        </tr>
+        @foreach (Artikl artikl in (List<Artikl>)Model)
+        {
+            <tr>
+                <td>@artikl.Naziv</td>
+                <td>@artikl.Kategorija</td>
+                <td>@artikl.Cijena</td>
+                <td>@artikl.Kolicina</td>
+            </tr>
+        }
+    </table>
+    <a href="/ListaArtikala/UnesiArtikl">Unesi artikl</a>
+</body>
+</html>

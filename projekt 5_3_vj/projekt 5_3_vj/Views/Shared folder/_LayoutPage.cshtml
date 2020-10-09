@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    
+        <img src="slika.jpg"/>
+        <ul>
+            <li><a href="Stranica1">Stranica 1</a></li>
+            <li><a href="Stranica2">Stranica 2</a></li>
+        </ul>
+        
+    <div>
+        @RenderBody()
+    </div>
+    @if (IsSectionDefined("Detalji"))
+    {
+        @RenderSection("Detalji")
+    }
+    else
+    {
+        <h4></h4>
+    }
+</body>
+</html>
