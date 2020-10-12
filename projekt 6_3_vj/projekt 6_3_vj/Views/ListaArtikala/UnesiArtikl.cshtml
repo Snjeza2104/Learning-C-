@@ -1,0 +1,33 @@
+﻿@model projekt_6_3_vj.Models.Artikl
+@{
+    Layout = null;
+    Html.EnableClientValidation(false);
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UnesiArtikl</title>
+    <style>
+        label {
+            width: 150px;
+            padding-top: 10px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h3>@Html.LabelForModel()</h3>
+    <div>
+        @using (Html.BeginForm("DodajArtikl", "ListaArtikala"))
+        {
+           
+               @Html.EditorForModel()
+
+            <input type="submit" value="Dodaj" />
+        }
+    </div>
+</body>
+</html>
